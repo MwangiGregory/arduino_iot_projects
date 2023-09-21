@@ -3,3 +3,4 @@ This is a collection of the different arduino and IOT projects that I have worke
 
 - Smart Dustbin
 - Media playback control [repo](https://github.com/MwangiGregory/arduino_iot_projects/tree/main/Media%20playback%20control)
+- Water Level Monitoring [repo](https://github.com/MwangiGregory/arduino_iot_projects/tree/main/Water_level_monitoring)
